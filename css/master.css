@@ -1,0 +1,41 @@
+# color scheme http://colorschemedesigner.com/#2911T7nw0w0w0
+.body {
+	background-color: #F4FADA;
+	font-family: 'Verdana', Geneva, sans-serif;
+}
+
+#wrap {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#head {
+	width: 960px;
+	background-color: #F4FADA;
+	height: 340px;
+}
+
+#nav { 
+	width: 960px;
+	float: left;
+	bacground-color: #8C9F3D;
+	text-decoration-color: #B2B898;
+	font:white;
+}
+
+#content {
+	background-color: #EAF5BD;
+	width:960px;
+	clear:both;
+	border-radius: 10px; 
+	-moz-border-radius: 10px; 
+	-webkit-border-radius: 10px; 
+	border: 2px solid #B2B898;
+	font: black; 
+}
+
+#footer {
+
+}
+
